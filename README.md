@@ -1,0 +1,2 @@
+# wangblog.com
+my blog
