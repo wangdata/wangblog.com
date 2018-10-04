@@ -2,7 +2,7 @@
 baseurl = "https://example.com/"
 languageCode = "en"
 
-title = "Science"
+title = "Academy Blog"
 theme = "hyde-hyde"
 
 ## Hugo Built-in Features
@@ -31,15 +31,15 @@ theme = "hyde-hyde"
 
 ## Social Accounts
 [params.social]
-    github = "wangdata"
+    github = "<username>"
     instagram = "<username>"
     xing = "<username>"
     linkedin = "<username>"
-    twitter = "jackwang"
-    facebook = "weiluwang868"
+    twitter = "<username>"
+    facebook = "<username>"
     stackoverflow = "<username>"
     telegram = "<username>"
-    email = "weiluwang868@163.com"
+    email = "your-email@example.com"
 
 ## Main Menu
 [[menu.main]]
