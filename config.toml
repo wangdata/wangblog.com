@@ -1,5 +1,5 @@
 ## Basic Configuration
-baseurl = "https://example.com/"
+baseurl = "https://philipwang.netlify.com/"
 languageCode = "en"
 
 title = "Science"
@@ -57,3 +57,5 @@ theme = "hyde-hyde"
     identifier = "about"
     weight = 300
     url = "/about/"
+    
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]

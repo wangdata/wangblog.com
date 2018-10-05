@@ -1,10 +1,15 @@
 ---
-date: 2014-03-10
+title: "Migrate"
+date: '2014-03-10'
 linktitle: Migrating
-title: Migrate
+tags:
+- hugo
+- jekyll
+- migration
+categories:
+- Development
+- golang
 weight: 10
-categories: [ "Development", "golang" ]
-tags: ["hugo", "jekyll", "migration"]
 ---
 
 ## Move static content to `static`
